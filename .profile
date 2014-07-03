@@ -1,4 +1,1 @@
-for file in .my_shell/*.sh
-do
-    source $file
-done
+source $HOME/.my_shell/startup.sh

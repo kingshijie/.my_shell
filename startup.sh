@@ -1,4 +1,4 @@
-for file in ./shell/*.sh
+for file in $HOME/.my_shell/shell/*.sh
 do
     source $file
 done
